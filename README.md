@@ -1,20 +1,13 @@
-<h2 align="left">Hi 👋! My name is Ivan Chew and I'm a Full Stack Web Developer based out of Nova Scotia, Canada. (Atlantic Standard Time)</h2>
+<h2 align="left">Hi 👋! My name is Ivan Chew and I'm a Full Stack Web Developer based out of Nova Scotia, Canada (AST) ....</h2>
 
 ###
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" style="width: 100%; max-width: 350px; height: auto;" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trickstyle89&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="width: 100%; max-width: 350px; height: auto;" />
-      </td>
-    </tr>
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trickstyle89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </table>
 </div>
-
 
 ###
 
@@ -51,13 +44,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/chewstory/">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@chewsstory">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21001067/ivan-chew">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/trickstyle89/trickstyle89/output/snake.svg" alt="Snake animation" />
+
+###
