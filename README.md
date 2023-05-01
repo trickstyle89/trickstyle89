@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ivan Chew and I'm a Full Stack Web Developer based out of Nova Scotia, Canada (AST) ....</h2>
+<h2 align="left">Hi 👋! My name is Ivan Chew and I'm a Full Stack Web Developer based out of Nova Scotia, Canada. (Atlantic Standard Time)</h2>
 
 ###
 
@@ -48,10 +48,3 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/trickstyle89/trickstyle89/output/snake.svg" alt="Snake animation" />
-
-###
