@@ -3,14 +3,16 @@
 ###
 
 <div align="center">
-  <div style="display: flex; justify-content: center;">
-    <div style="flex: 1; margin-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" style="width: 100%; max-width: 350px; height: auto;" />
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trickstyle89&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="width: 100%; max-width: 350px; height: auto;" />
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" style="width: 100%; max-width: 350px; height: auto;" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trickstyle89&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="width: 100%; max-width: 350px; height: auto;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
