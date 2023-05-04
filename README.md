@@ -22,19 +22,19 @@
 ###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ruby,rails,ts,express,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,react,ruby,rails,jquery,ts,nodejs,nextjs,express,mysql,postgres" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,sass,html,bootstrap,materialui,figma,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=css,sass,html,bootstrap,materialui,tailwind,figma,ai,ps" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,bash,prisma,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,bash,prisma,postman,jest" />
   </a>
 </p>
 
