@@ -6,7 +6,7 @@
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td style="padding-right: 10px;">
-        <img src="https://github-stats-git-main-trickstyle89.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph" style="width: 100%; max-width: 600px; height: auto;" />
+        <img src="https://github-stats-trickstyle89.vercel.app/api?username=trickstyle89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph" style="width: 100%; max-width: 600px; height: auto;" />
       </td>
       <td style="padding-left: 10px;">
         <img src="https://github-stats-trickstyle89.vercel.app/api/top-langs?username=trickstyle89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=transparent&hide_border=false" alt="languages graph" style="width: 100%; max-width: 600px; height: auto;" />
